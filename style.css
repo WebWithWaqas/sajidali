@@ -41,6 +41,8 @@ h3 {
   float: left;
 }
 .waqas-youtube {
+  padding: 5px;
+  border: 4px solid brown;
   margin-top: 15px;
   margin-left: 10px;
   float: left;
